@@ -1,0 +1,10 @@
+{
+    "cache_flag": false,
+    "log_to_file": false,
+    "dir_loc": "./",
+    "symbol": [
+        "ETH",
+        "BTC",
+        "XRP"
+    ]
+}
